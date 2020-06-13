@@ -1,0 +1,75 @@
+title
+{
+  font-family: 'Merriweather', serif;
+  color: red;
+}
+body
+{
+  text-align: center;
+}
+.top-container
+{
+  padding-top: 80px;
+  background-color: #f2ed6f;
+}
+.top_img
+{
+ margin: 0 auto;
+ display: block;
+ position: relative;
+ top: 35px;
+ max-width: 400px;
+}
+.head_text
+{
+  margin-top: 5px;
+  margin-bottom: 2px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 80px;
+  color:#d63447;
+  display:inline-block;
+}
+body
+{
+  margin: 0px;
+}
+.wifi_img
+{
+  max-width:80px;
+  max-height: 80px;
+  position: relative;
+  left:40px;
+}
+.slogan
+{
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 30px;
+  font-family: 'Shadows Into Light', cursive;
+  margin-top: 5px;
+  position: relative;
+  bottom:5px;
+  color:#f57b51
+}
+.airport_pic
+{
+  position: relative;
+  bottom: 120px;
+  right:900px;
+  max-width: 200px;
+}
+.plane_pic
+{
+  max-width: 120px;
+  bottom: 400px;
+  position:relative;
+  display: inline-block;
+}
+.boy_pic
+{
+  position:relative;
+  left:125px;
+  display: inline-block;
+  max-width:auto;
+  max-height: 600px;
+}
